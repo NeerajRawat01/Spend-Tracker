@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818137938112",
+    "project_id": "spendtracker-100ff",
+    "storage_bucket": "spendtracker-100ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818137938112:android:f9eabfc5dd7c6330549525",
+        "android_client_info": {
+          "package_name": "com.example.spendtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818137938112-g5lbi1nmqep1d2lc3nhgm983b1hhpbkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0DQrrjKInbuL_XNWUAchpWSCg8MvA-II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818137938112-g5lbi1nmqep1d2lc3nhgm983b1hhpbkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

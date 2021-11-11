@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SpendTracker</string>
+    <string name="Todo" />
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="items">
+        <item>Select Item</item>
+        <item>Transport</item>
+        <item>Food</item>
+        <item>Entertainment</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
